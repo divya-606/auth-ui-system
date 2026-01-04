@@ -1,3 +1,9 @@
+# Authentication UI System
+
+A frontend authentication system built using React and TypeScript.
+
+🔗 GitHub Repository: https://github.com/divya-606/auth-ui-system
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
